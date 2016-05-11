@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://git-wip-us.apache.org/repos/asf/cordova-cli.git"
+        "url": "https://github.com/apache/cordova-lib"
     },
     "bugs": {
         "url": "https://issues.apache.org/jira/browse/CB",
@@ -29,7 +29,7 @@
         "cli"
     ],
     "dependencies": {
-        "cordova-lib": "6.1.0",
+        "cordova-lib": "https://github.com/hgross/cordova-lib",
         "cordova-common": "^1.1.0",
         "q": "1.0.1",
         "nopt": "3.0.1",
