@@ -29,7 +29,7 @@
         "cli"
     ],
     "dependencies": {
-        "cordova-lib": "https://github.com/hgross/cordova-lib",
+        "cordova-lib": "https://github.com/hgross/cordova-lib/tarball/master",
         "cordova-common": "^1.1.0",
         "q": "1.0.1",
         "nopt": "3.0.1",
